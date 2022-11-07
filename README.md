@@ -8,10 +8,13 @@
 
 - [Clique aqui](https://github.com/AntonioSsantana/first) para ir ao repositório que contém meus projetos desenvolvidos durante minha formação na Trybe!
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
+## Habilidades desenvolvidas
 <img align="center" alt="GITBadge" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="center" alt="JSBadge" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="center" alt="HTMLBadge" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="center" alt="CSSbadge" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="center" alt="REACTbadge" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+<img align="center" alt="REDUXbadge" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+
 </div>
