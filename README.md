@@ -9,7 +9,7 @@
 - [Clique aqui](https://github.com/AntonioSsantana/first) para ir ao repositório que contém meus projetos desenvolvidos durante minha formação na Trybe!
 
 <div style="display: inline_block">
-	<h2>Habilidades desenvolvidas:</h2>
+	<h2>Habilidades desenvolvidas e em desenvolvimento:</h2>
 <img align="center" alt="GITBadge" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="center" alt="JSBadge" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="center" alt="HTMLBadge" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
