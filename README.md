@@ -30,6 +30,7 @@
 	<h3>Comunicação:</h3>
 <img align="center" alt="SLACKBadge"  src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 <img align="center" alt="ZOOMBadge"  src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
+<img align="center" alt="DISCORDBadge"  src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
 </div>
 <br />
 
