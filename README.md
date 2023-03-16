@@ -11,7 +11,7 @@
 <h3>Repositórios:</h3>
 </div>
 
-- [Trybe Repository](https://github.com/AntonioSsantana/first) - repositório que contém meus projetos desenvolvidos durante minha formação na Trybe!
+- [Trybe Repository](https://github.com/AntonioSsantana/first) - repositório que contém exercícios e link dos projetos desenvolvidos durante minha formação na Trybe!
 
 <div style="display: inline_block">
 	<h3>Stacks desenvolvidas e em desenvolmento:</h3>
