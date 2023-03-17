@@ -36,4 +36,10 @@
 </div>
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioSsantana&show_icons=true&theme=tokyonight)
+<div style="display: inline_block">
+
+![AntoniosSantana GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioSsantana&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioSsantana&layout=compact)](https://github.com/AntonioSsantana/github-readme-stats)
+
+</div>
