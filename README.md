@@ -24,7 +24,10 @@
 <img align="center" alt="REACTROUTERbadge" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
 <img align="center" alt="REDUXbadge"  src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 <img align="center" alt="DOCKERbadge"  src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />  
-<img align="center" alt="MYSQLbadge"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />   
+<img align="center" alt="MYSQLbadge"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="center" alt="EXPRESSbadge"  src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+<img align="center" alt="TSbadge"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img align="center" alt="MONGObadge"  src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />    
 </div>
 <div style="display: inline_block">
 	<h3>Comunicação:</h3>
