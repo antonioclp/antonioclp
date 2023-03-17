@@ -14,7 +14,7 @@
 - [Trybe Repository](https://github.com/AntonioSsantana/first) - repositório que contém exercícios e link dos projetos desenvolvidos durante minha formação na Trybe!
 
 <div style="display: inline_block">
-	<h3>Stacks desenvolvidas e em desenvolmento:</h3>
+	<h3>Stacks desenvolvidas e em desenvolvimento:</h3>
 <img align="center" alt="GITBadge"  src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
 <img align="center" alt="JSBadge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img align="center" alt="HTMLBadge" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
