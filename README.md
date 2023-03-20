@@ -35,11 +35,5 @@
 <img align="center" alt="ZOOMBadge"  src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
 </div>
 <br />
-
 <div style="display: inline_block">
-
-![AntoniosSantana GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioSsantana&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioSsantana&layout=compact)](https://github.com/AntonioSsantana/github-readme-stats)
-
 </div>
