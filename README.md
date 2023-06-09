@@ -1,39 +1,59 @@
-# Seja bem-vindo!
+# Seja bem-vindo! <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/92331572-9542-4da0-b134-464dacd47d44/dcz916l-14684120-a141-478b-b3d1-e0f9ee481909.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkyMzMxNTcyLTk1NDItNGRhMC1iMTM0LTQ2NGRhY2Q0N2Q0NFwvZGN6OTE2bC0xNDY4NDEyMC1hMTQxLTQ3OGItYjNkMS1lMGY5ZWU0ODE5MDkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.z4_IJx5n1_kLuyaJ3xtVIIRTSxGHoFmrJS7We8L5lJk" width="40px"/>
 
-> Olá, atualmente sou estudante de desenvolvimento web full-stack na [Trybe:rocket:](https://www.betrybe.com/)!
+```js
+const sobreMim = {
+   name: "Antônio Santana",
+   description: "Desenvolvedor web junior",
+   languages: ["javaScript", "typeScript"],
+   learning: ["Python", "Java"]
+}
+``` 
 
-<div>
-	<h3>Contatos:</h3>
-<a href="https://www.linkedin.com/in/antoniosgn/" target="_blank"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
 
-<div>
-<h3>Repositórios:</h3>
-</div>
+### Repositórios:
 
-- [Trybe Repository](https://github.com/AntonioSsantana/first) - repositório que contém exercícios e link dos projetos desenvolvidos durante minha formação na Trybe!
+- [Repositório da Trybe](https://github.com/AntonioSsantana/first) - repositório que contém link dos projetos desenvolvidos durante minha formação na Trybe!
 
-<div style="display: inline_block">
-	<h3>Stacks desenvolvidas e em desenvolvimento:</h3>
-<img align="center" alt="GITBadge"  src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
-<img align="center" alt="JSBadge" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img align="center" alt="HTMLBadge" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="CSSbadge" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="NODEBadge"  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="center" alt="REACTbadge"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img align="center" alt="REACTROUTERbadge" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
-<img align="center" alt="REDUXbadge"  src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-<img align="center" alt="DOCKERbadge"  src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />  
-<img align="center" alt="MYSQLbadge"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-<img align="center" alt="EXPRESSbadge"  src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-<img align="center" alt="TSbadge"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img align="center" alt="MONGObadge"  src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />    
-</div>
-<div style="display: inline_block">
-	<h3>Comunicação:</h3>
-<img align="center" alt="SLACKBadge"  src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-<img align="center" alt="ZOOMBadge"  src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
-</div>
-<br />
-<div style="display: inline_block">
-</div>
+<h2>Languages</h2>
+
+![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=yellow)
+![TYPESCRIPT](https://img.shields.io/badge/-TypeScript-333333?style=for-the-badge&logo=typescript&logoColor=blue)
+![PYTHON](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python&logoColor=blue)
+
+<h2>Fron-end</h2>
+
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+![REACT](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react&logoColor=61DAFB)
+![RERDUX](https://img.shields.io/badge/-Redux-333333?style=for-the-badge&logo=redux&logoColor=purple)
+![TAILWIND](https://img.shields.io/badge/-Tailwind_CSS-333333?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![REACT ROUTER](https://img.shields.io/badge/-React_Router-333333?style=for-the-badge&logo=react-router&logoColor=orange)
+
+<h2>Back-end</h2>
+
+![NODEJS](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js&logoColor=white)
+![MYSQL](https://img.shields.io/badge/-MySql-333333?style=for-the-badge&logo=mysql&logoColor=blue)
+![MONGODB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=green)
+![SEQUELIZE](https://img.shields.io/badge/-Sequelize-333333?style=for-the-badge&logo=Sequelize&logoColor=white)
+![EXPRESS](https://img.shields.io/badge/-Express-333333?style=for-the-badge&logo=Express&logoColor=white)
+
+<h2>Tests</h2>
+
+![JEST](https://img.shields.io/badge/-Jest-333333?style=for-the-badge&logo=Jest&logoColor=red)
+![MOCHA](https://img.shields.io/badge/-Mocha-333333?style=for-the-badge&logo=Mocha&logoColor=vine)
+![RTL](https://img.shields.io/badge/-Testing%20Library-333333?style=for-the-badge&logo=Testing-Library&logoColor=orange)
+![CHAI](https://img.shields.io/badge/-Chai-333333?style=for-the-badge&logo=Chai&logoColor=cian)
+
+<h2>Contatos</h2>
+
+
+<a href="https://www.linkedin.com/in/antonio-sgn/">
+	
+![linkedin](https://img.shields.io/badge/antonio_santana-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)
+
+</a>
+<a href="https://www.linkedin.com/in/antonio-sgn/">
+	
+![Gmail](https://img.shields.io/badge/antonionetosg6@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white)
+
+</a>
