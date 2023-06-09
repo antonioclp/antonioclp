@@ -14,7 +14,7 @@ const sobreMim = {
 
 - [Repositório da Trybe](https://github.com/AntonioSsantana/first) - repositório que contém link dos projetos desenvolvidos durante minha formação na Trybe!
 
-<h2>Languages</h2>
+<h2>Linguagens de programação 👨🏻‍💻</h2>
 
 ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![TYPESCRIPT](https://img.shields.io/badge/-TypeScript-333333?style=for-the-badge&logo=typescript&logoColor=blue)
