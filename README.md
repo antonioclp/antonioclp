@@ -20,33 +20,33 @@ const sobreMim = {
 
 <h2>Linguagens de programação 👨🏻‍💻</h2>
 
-![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=yellow)
-![TYPESCRIPT](https://img.shields.io/badge/-TypeScript-333333?style=for-the-badge&logo=typescript&logoColor=blue)
-![PYTHON](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python&logoColor=blue)
+![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow)
+![TYPESCRIPT](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=blue)
+![PYTHON](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=yellow)
 
 <h2>Fron-end</h2>
 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)
-![REACT](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react&logoColor=61DAFB)
-![RERDUX](https://img.shields.io/badge/-Redux-333333?style=for-the-badge&logo=redux&logoColor=purple)
-![TAILWIND](https://img.shields.io/badge/-Tailwind_CSS-333333?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![REACT ROUTER](https://img.shields.io/badge/-React_Router-333333?style=for-the-badge&logo=react-router&logoColor=orange)
+![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+![REACT](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![RERDUX](https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge&logo=redux&logoColor=purple)
+![TAILWIND](https://img.shields.io/badge/-Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![REACT ROUTER](https://img.shields.io/badge/-React_Router-0D1117?style=for-the-badge&logo=react-router&logoColor=orange)
 
 <h2>Back-end</h2>
 
-![NODEJS](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js&logoColor=white)
-![MYSQL](https://img.shields.io/badge/-MySql-333333?style=for-the-badge&logo=mysql&logoColor=blue)
-![MONGODB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=green)
-![SEQUELIZE](https://img.shields.io/badge/-Sequelize-333333?style=for-the-badge&logo=Sequelize&logoColor=white)
-![EXPRESS](https://img.shields.io/badge/-Express-333333?style=for-the-badge&logo=Express&logoColor=white)
+![NODEJS](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=green)
+![MYSQL](https://img.shields.io/badge/-MySql-0D1117?style=for-the-badge&logo=mysql&logoColor=blue)
+![MONGODB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=green)
+![SEQUELIZE](https://img.shields.io/badge/-Sequelize-0D1117?style=for-the-badge&logo=Sequelize&logoColor=blue)
+![EXPRESS](https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=Express&logoColor=brown)
 
 <h2>Tests</h2>
 
-![JEST](https://img.shields.io/badge/-Jest-333333?style=for-the-badge&logo=Jest&logoColor=red)
-![MOCHA](https://img.shields.io/badge/-Mocha-333333?style=for-the-badge&logo=Mocha&logoColor=vine)
-![RTL](https://img.shields.io/badge/-Testing%20Library-333333?style=for-the-badge&logo=Testing-Library&logoColor=orange)
-![CHAI](https://img.shields.io/badge/-Chai-333333?style=for-the-badge&logo=Chai&logoColor=cian)
+![JEST](https://img.shields.io/badge/-Jest-0D1117?style=for-the-badge&logo=Jest&logoColor=red)
+![MOCHA](https://img.shields.io/badge/-Mocha-0D1117?style=for-the-badge&logo=Mocha&logoColor=vine)
+![RTL](https://img.shields.io/badge/-Testing%20Library-0D1117?style=for-the-badge&logo=Testing-Library&logoColor=orange)
+![CHAI](https://img.shields.io/badge/-Chai-0D1117?style=for-the-badge&logo=Chai&logoColor=orange)
 
 <h2>Contatos</h2>
 
