@@ -47,13 +47,10 @@ const sobreMim = {
 <h2>Contatos</h2>
 
 
-<a href="https://www.linkedin.com/in/antonio-sgn/">
+<a href="https://www.linkedin.com/in/antoniosgn/">
 	
 ![linkedin](https://img.shields.io/badge/antonio_santana-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)
 
 </a>
-<a href="https://www.linkedin.com/in/antonio-sgn/">
-	
-![Gmail](https://img.shields.io/badge/antonionetosg6@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white)
 
-</a>
+![Gmail](https://img.shields.io/badge/antonionetosg6@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white)
