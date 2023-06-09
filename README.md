@@ -12,7 +12,11 @@ const sobreMim = {
 
 ### Repositórios:
 
-- [Repositório da Trybe](https://github.com/AntonioSsantana/first) - repositório que contém link dos projetos desenvolvidos durante minha formação na Trybe!
+- [Repositório da Trybe](https://github.com/AntonioSsantana/first) - repositório que contém links dos projetos desenvolvidos durante minha formação na Trybe!
+
+- [Repositório Java - Trybe]() - repositório que contém links dos projetos desenvolvidos em Java!
+
+- [Projetos pessoais]() - repositório que contém links dos meus projetos pessoais!
 
 <h2>Linguagens de programação 👨🏻‍💻</h2>
 
