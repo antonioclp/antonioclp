@@ -47,7 +47,7 @@ const sobreMim = {
 <h2>Contatos</h2>
 
 
-<a href="https://www.linkedin.com/in/antoniosgn/" target="_blank">
+<a href="https://www.linkedin.com/in/antoniosgn/">
 	
 ![linkedin](https://img.shields.io/badge/antonio_santana-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)
 
