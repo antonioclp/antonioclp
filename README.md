@@ -4,8 +4,8 @@
 const sobreMim = {
    name: "Antônio Santana",
    description: "Desenvolvedor Web",
-   languages: ["javaScript", "typeScript"],
-   learning: ["Python", "Java"]
+   languages: ["javaScript", "typeScript", "Python"],
+   learning: ["Java", "Angular"]
 }
 ``` 
 
