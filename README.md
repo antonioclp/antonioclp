@@ -13,8 +13,6 @@ const sobreMim = {
 ### Repositórios:
 
 [![Repositório da Trybe](https://github-readme-stats.vercel.app/api/pin/?username=antonioSsantana&repo=first&theme=radical)](https://github.com/AntonioSsantana/first)
- 
-[![Projetos pessoais](https://github-readme-stats.vercel.app/api/pin/?username=antonioSsantana&repo=Personal&theme=radical)](https://github.com/AntonioSsantana/Personal)
 
 <h2>Linguagens de programação 👨🏻‍💻</h2>
 
