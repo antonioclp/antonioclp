@@ -26,7 +26,6 @@ const sobreMim = {
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![REACT](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![ANGULAR](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&logoColor=880808)
 ![RERDUX](https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge&logo=redux&logoColor=purple)
 ![TAILWIND](https://img.shields.io/badge/-Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![REACT ROUTER](https://img.shields.io/badge/-React_Router-0D1117?style=for-the-badge&logo=react-router&logoColor=orange)
