@@ -12,7 +12,7 @@ const sobreMim = {
 
 ### Repositórios:
 
-[![Repositório da Trybe](https://github-readme-stats.vercel.app/api/pin/?username=antonioclp&repo=first&theme=radical)](https://github.com/antonioclp/first)
+[![Repositório da Trybe](https://github-readme-stats.vercel.app/api/pin/?username=antonioclp&repo=Trybe-learning&theme=radical)](https://github.com/antonioclp/Trybe-learning)
 
 <h2>Linguagens de programação 👨🏻‍💻</h2>
 
