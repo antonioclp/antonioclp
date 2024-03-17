@@ -2,7 +2,7 @@
 
 ```js
 const sobreMim = {
-   name: "Antônio Santana",
+   name: "Antonio Santana",
    description: "Desenvolvedor Web",
    languages: ["javaScript", "TypeScript", "Java"],
    learning: ["Python"]
