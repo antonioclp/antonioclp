@@ -27,7 +27,6 @@ const sobreMim = {
 ![CSS3](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![REACT](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![RERDUX](https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge&logo=redux&logoColor=purple)
-![TAILWIND](https://img.shields.io/badge/-Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![REACT ROUTER](https://img.shields.io/badge/-React_Router-0D1117?style=for-the-badge&logo=react-router&logoColor=orange)
 
 <h2>Back-end</h2>
@@ -37,6 +36,7 @@ const sobreMim = {
 ![MONGODB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=green)
 ![SEQUELIZE](https://img.shields.io/badge/-Sequelize-0D1117?style=for-the-badge&logo=Sequelize&logoColor=blue)
 ![EXPRESS](https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=Express&logoColor=brown)
+![Spring](https://img.shields.io/badge/spring-0D1117?style=for-the-badge&logo=spring&logoColor=green)
 
 <h2>Tests</h2>
 
