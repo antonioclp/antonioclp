@@ -54,4 +54,4 @@ const sobreMim = {
 
 </a>
 
-![Gmail](https://img.shields.io/badge/antonionetosg6@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white)
+![Gmail](https://img.shields.io/badge/antoniosantanagn.dev@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white)
