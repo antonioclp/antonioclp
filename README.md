@@ -7,12 +7,7 @@ const aboutMe = {
    languages: ["javaScript", "TypeScript", "Java"],
    learning: ["Next.js"]
 }
-``` 
-
-
-### Repositórios:
-
-[![Repositório da Trybe](https://github-readme-stats.vercel.app/api/pin/?username=antonioclp&repo=Trybe-learning&theme=radical)](https://github.com/antonioclp/Trybe-learning)
+```
 
 <h2>Linguagens de programação 👨🏻‍💻</h2>
 
