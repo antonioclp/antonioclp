@@ -1,11 +1,11 @@
-# Seja bem-vindo!
+# Seja bem-vindo(a)!
 
 ```js
-const sobreMim = {
+const aboutMe = {
    name: "Antonio Santana",
-   description: "Desenvolvedor Web",
+   description: "Software Engineer",
    languages: ["javaScript", "TypeScript", "Java"],
-   learning: ["Next.js", "Python"]
+   learning: ["Next.js"]
 }
 ``` 
 
