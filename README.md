@@ -14,7 +14,6 @@ const aboutMe = {
 ![JAVASCRIPT](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![TYPESCRIPT](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=blue)
 ![Java](https://img.shields.io/badge/java-0D1117?style=for-the-badge&logo=openjdk&logoColor=yellow)
-![PYTHON](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=white)
 
 <h2>Fron-end</h2>
 
